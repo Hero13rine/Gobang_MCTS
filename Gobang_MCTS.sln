@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gobang_MCTS", "Gobang_MCTS\Gobang_MCTS.vcxproj", "{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Debug|x64.ActiveCfg = Debug|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Debug|x64.Build.0 = Debug|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Debug|x86.ActiveCfg = Release|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Debug|x86.Build.0 = Release|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Release|x64.ActiveCfg = Release|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Release|x64.Build.0 = Release|x64
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Release|x86.ActiveCfg = Release|Win32
+		{13E5EFE5-3405-415C-8044-36FF2F3ECEB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07FC377-A684-403C-8143-4F9FA1A55335}
+	EndGlobalSection
+EndGlobal
